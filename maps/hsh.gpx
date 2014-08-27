@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2014-08-26T21:22:06.335Z</time>
+  <bounds minlat="52.249380000" minlon="10.497949600" maxlat="52.266732700" maxlon="10.536348400"/>
+  <wpt lat="52.266732700" lon="10.536348400">
+    <ele>0.000000</ele>
+    <name>Deborah Uhde</name>
+    <cmt>Deborah Uhde</cmt>
+    <desc>Deborah Uhde</desc>
+  </wpt>
+  <wpt lat="52.249548900" lon="10.503373900">
+    <ele>0.000000</ele>
+    <name>Sarah Schoberth</name>
+    <cmt>Sarah Schoberth</cmt>
+    <desc>Sarah Schoberth</desc>
+  </wpt>
+  <wpt lat="52.254685600" lon="10.509174500">
+    <ele>0.000000</ele>
+    <name>Nils Peter</name>
+    <cmt>Nils Peter</cmt>
+    <desc>Nils Peter</desc>
+  </wpt>
+  <wpt lat="52.249380000" lon="10.502380000">
+    <ele>0.000000</ele>
+    <name>Sven-Julien Kanclerski &amp; Carolin Steinkamp</name>
+    <cmt>Sven-Julien Kanclerski &amp; Carolin Steinkamp</cmt>
+    <desc>Sven-Julien Kanclerski &amp; Carolin Steinkamp</desc>
+  </wpt>
+  <wpt lat="52.261810900" lon="10.497949600">
+    <ele>0.000000</ele>
+    <name>Swetlana König</name>
+    <cmt>Swetlana König</cmt>
+    <desc>Swetlana König</desc>
+  </wpt>
+  <wpt lat="52.261228400" lon="10.506162300">
+    <ele>0.000000</ele>
+    <name>Aaron Israel</name>
+    <cmt>Aaron Israel</cmt>
+    <desc>Aaron Israel</desc>
+  </wpt>
+  <wpt lat="52.259280000" lon="10.502950000">
+    <ele>0.000000</ele>
+    <name>Jonny Isaak &amp; Nina Nyusha Rezagholina</name>
+    <cmt>Jonny Isaak &amp; Nina Nyusha Rezagholina</cmt>
+    <desc>Jonny Isaak &amp; Nina Nyusha Rezagholina</desc>
+  </wpt>
+  <wpt lat="52.257830000" lon="10.525430000">
+    <ele>0.000000</ele>
+    <name>Marlene Bart</name>
+    <cmt>Marlene Bart</cmt>
+    <desc>Marlene Bart</desc>
+  </wpt>
+  <wpt lat="52.258128000" lon="10.506221700">
+    <ele>0.000000</ele>
+    <name>Phoebe Pia Hartmann</name>
+    <cmt>Phoebe Pia Hartmann</cmt>
+    <desc>Phoebe Pia Hartmann</desc>
+  </wpt>
+  <wpt lat="52.253440000" lon="10.507820000">
+    <ele>0.000000</ele>
+    <name>Alissa Lillepea</name>
+    <cmt>Alissa Lillepea</cmt>
+    <desc>Alissa Lillepea</desc>
+  </wpt>
+  <wpt lat="52.257620000" lon="10.502280000">
+    <ele>0.000000</ele>
+    <name>Timo Hoheisel</name>
+    <cmt>Timo Hoheisel</cmt>
+    <desc>Timo Hoheisel</desc>
+  </wpt>
+  <wpt lat="52.258150100" lon="10.528737900">
+    <ele>0.000000</ele>
+    <name>Treffpunkt für die Führung</name>
+    <cmt>Bushaltestellt am John F. Kennedy Platz.</cmt>
+    <desc>Bushaltestellt am John F. Kennedy Platz.</desc>
+  </wpt>
+</gpx>
