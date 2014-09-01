@@ -1,10 +1,11 @@
 {
     "attribution": "Data \u00a9 OpenStreetMap (and) contributors, CC-BY-SA", 
+    "description": "", 
+    "bounds": "10.434744388862615,52.23252517036337,10.599553611137384,52.28358782963664", 
     "name": "HOME Street HOME - OSM Bright", 
-    "bounds": "10.497112547932714,52.248542547932715,10.510012452067286,52.26264845206729", 
-    "minzoom": "16", 
+    "minzoom": "13", 
     "version": "1.0.0", 
     "template": "", 
     "maxzoom": "17", 
-    "description": ""
+    "center": "10.5182,52.2585,16"
 }
