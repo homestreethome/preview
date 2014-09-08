@@ -18,6 +18,7 @@ images/8.jpg
 images/9.jpg
 images/background.jpg
 images/background_red.jpg
+images/hbk_logo.png
 maps/a.gpx
 maps/b.gpx
 maps/bnw.gpx
@@ -63,15 +64,15 @@ images/places/stoberholz.jpg
 images/places/volksbuehne.jpg
 images/places/wunschgarten.jpg
 maps/default/tiles/metadata.json
-maps/default/tiles/13/4333/2695.png
-maps/default/tiles/13/4333/2696.png
-maps/default/tiles/13/4333/2697.png
 maps/default/tiles/13/4334/2695.png
 maps/default/tiles/13/4334/2696.png
 maps/default/tiles/13/4334/2697.png
 maps/default/tiles/13/4335/2695.png
 maps/default/tiles/13/4335/2696.png
 maps/default/tiles/13/4335/2697.png
+maps/default/tiles/13/4333/2695.png
+maps/default/tiles/13/4333/2696.png
+maps/default/tiles/13/4333/2697.png
 maps/default/tiles/13/4336/2695.png
 maps/default/tiles/13/4336/2696.png
 maps/default/tiles/13/4336/2697.png
@@ -411,22 +412,6 @@ maps/default/tiles/16/34675/21575.png
 maps/default/tiles/16/34675/21576.png
 maps/default/tiles/16/34675/21577.png
 maps/default/tiles/16/34675/21578.png
-maps/default/tiles/16/34676/21563.png
-maps/default/tiles/16/34676/21564.png
-maps/default/tiles/16/34676/21565.png
-maps/default/tiles/16/34676/21566.png
-maps/default/tiles/16/34676/21567.png
-maps/default/tiles/16/34676/21568.png
-maps/default/tiles/16/34676/21569.png
-maps/default/tiles/16/34676/21570.png
-maps/default/tiles/16/34676/21571.png
-maps/default/tiles/16/34676/21572.png
-maps/default/tiles/16/34676/21573.png
-maps/default/tiles/16/34676/21574.png
-maps/default/tiles/16/34676/21575.png
-maps/default/tiles/16/34676/21576.png
-maps/default/tiles/16/34676/21577.png
-maps/default/tiles/16/34676/21578.png
 maps/default/tiles/16/34677/21563.png
 maps/default/tiles/16/34677/21564.png
 maps/default/tiles/16/34677/21565.png
@@ -459,6 +444,22 @@ maps/default/tiles/16/34678/21575.png
 maps/default/tiles/16/34678/21576.png
 maps/default/tiles/16/34678/21577.png
 maps/default/tiles/16/34678/21578.png
+maps/default/tiles/16/34676/21563.png
+maps/default/tiles/16/34676/21564.png
+maps/default/tiles/16/34676/21565.png
+maps/default/tiles/16/34676/21566.png
+maps/default/tiles/16/34676/21567.png
+maps/default/tiles/16/34676/21568.png
+maps/default/tiles/16/34676/21569.png
+maps/default/tiles/16/34676/21570.png
+maps/default/tiles/16/34676/21571.png
+maps/default/tiles/16/34676/21572.png
+maps/default/tiles/16/34676/21573.png
+maps/default/tiles/16/34676/21574.png
+maps/default/tiles/16/34676/21575.png
+maps/default/tiles/16/34676/21576.png
+maps/default/tiles/16/34676/21577.png
+maps/default/tiles/16/34676/21578.png
 maps/default/tiles/16/34679/21563.png
 maps/default/tiles/16/34679/21564.png
 maps/default/tiles/16/34679/21565.png
@@ -2722,4 +2723,4 @@ NETWORK:
 http://*
 https://*
 
-# hash: 0b32a6a4ed51052bc2c9e9e3402503c5461d8235eb9dad22badb49de3a7ae3c7
+# hash: fa19cf728be43ef71c9052c58eb3332d52ebb200526f39660b7a41fdc8af4b36
